@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Feed default 1`] = `
+<div
+  className="feed"
+  style={Object {}}
+/>
+`;
+
+exports[`Storyshots Feed/PosterCard album 1`] = `
+<div
+  style={
+    Object {
+      "width": 400,
+    }
+  }
+>
+  <figure
+    className={
+      Object {
+        "has": [Function],
+        "is": [Function],
+        "mix": [Function],
+        "split": [Function],
+        "state": [Function],
+        "toString": [Function],
+      }
+    }
+  >
+    <img
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+      src="equality.jpg"
+    />
+  </figure>
+</div>
+`;
+
+exports[`Storyshots Feed/PosterCard portait 1`] = `
+<div
+  style={
+    Object {
+      "width": 400,
+    }
+  }
+>
+  <figure
+    className={
+      Object {
+        "has": [Function],
+        "is": [Function],
+        "mix": [Function],
+        "split": [Function],
+        "state": [Function],
+        "toString": [Function],
+      }
+    }
+  >
+    <img
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+      src="moldanazar.jpg"
+    />
+  </figure>
+</div>
+`;
+
+exports[`Storyshots Feed/PosterCard square 1`] = `
+<div
+  style={
+    Object {
+      "width": 400,
+    }
+  }
+>
+  <figure
+    className={
+      Object {
+        "has": [Function],
+        "is": [Function],
+        "mix": [Function],
+        "split": [Function],
+        "state": [Function],
+        "toString": [Function],
+      }
+    }
+  >
+    <img
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+      src="golden.middle.jpg"
+    />
+  </figure>
+</div>
+`;
