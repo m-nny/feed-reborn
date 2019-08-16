@@ -2,9 +2,9 @@ import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 
 import Feed from './Feed';
-import { images } from './PosterCard/PosterCard.stories';
+import { posters } from '../../assets/index';
 
-const content = Object.values(images);
+export const content = Object.values(posters);
 
 storiesOf('Feed', module)
-  .add('default', () => <Feed images={content} />)
+  .add('default', () => <Feed data={content} />)

@@ -1,0 +1,28 @@
+
+.info-card {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  min-width: 600px;
+  max-width: 900px;
+}
+
+.info-card__poster {
+  flex: 1;
+  margin: 0px;
+}
+
+.info-card__info {
+  flex: 1;
+  padding: 20px;
+}
+
+.info-card__description {
+  padding-top: 20px;
+  /* display: block; */
+  white-space: pre-wrap;
+  font-family: Montserrat;
+  font-weight: 300;
+  /* font-size: 18px; */
+  /* line-height: 21px; */
+}

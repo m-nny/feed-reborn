@@ -10,8 +10,8 @@ type Props = {
 const b = block('poster-card');
 
 const PosterCard: React.FC<Props> = ({ src }) => (
-  <figure className={b('')}>
-    <img className={b('image')} src={src} />
+  <figure className={b()}>
+    <img className={b('image')} src={src} alt=""/>
   </figure>
 );
 

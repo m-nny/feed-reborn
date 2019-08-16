@@ -7,6 +7,7 @@ declare module 'react-stack-grid' {
     columnWidth: number | string,
     gutterWidth?: number,
     gutterHeight?: number,
+    monitorImagesLoaded?: boolean,
   }
 
   class StackGrid extends React.Component<PropTypes> { }

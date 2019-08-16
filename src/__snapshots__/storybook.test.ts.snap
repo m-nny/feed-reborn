@@ -7,7 +7,228 @@ exports[`Storyshots Feed default 1`] = `
 />
 `;
 
-exports[`Storyshots Feed/PosterCard album 1`] = `
+exports[`Storyshots InfoCard Acoustic Night 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "#E5E5E5",
+      "padding": 20,
+    }
+  }
+>
+  <div
+    className="info-card"
+  >
+    <div
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+    >
+      <figure
+        className="poster-card"
+      >
+        <img
+          alt=""
+          className={
+            Object {
+              "has": [Function],
+              "is": [Function],
+              "mix": [Function],
+              "split": [Function],
+              "state": [Function],
+              "toString": [Function],
+            }
+          }
+          src="acoustic.night.jpg"
+        />
+      </figure>
+    </div>
+    <div
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+    >
+      <div
+        className="info-header"
+      >
+        <div
+          className={
+            Object {
+              "has": [Function],
+              "is": [Function],
+              "mix": [Function],
+              "split": [Function],
+              "state": [Function],
+              "toString": [Function],
+            }
+          }
+        >
+          <img
+            alt=""
+            src="acoustic.night.jpg"
+          />
+        </div>
+        <div
+          className={
+            Object {
+              "has": [Function],
+              "is": [Function],
+              "mix": [Function],
+              "split": [Function],
+              "state": [Function],
+              "toString": [Function],
+            }
+          }
+        >
+          <div
+            className={
+              Object {
+                "has": [Function],
+                "is": [Function],
+                "mix": [Function],
+                "split": [Function],
+                "state": [Function],
+                "toString": [Function],
+              }
+            }
+          >
+            Acoustic Night
+          </div>
+          <div
+            className={
+              Object {
+                "has": [Function],
+                "is": [Function],
+                "mix": [Function],
+                "split": [Function],
+                "state": [Function],
+                "toString": [Function],
+              }
+            }
+          >
+            Ballroom Right, 19:00 31 Oct 2019
+          </div>
+        </div>
+      </div>
+      <div
+        className={
+          Object {
+            "has": [Function],
+            "is": [Function],
+            "mix": [Function],
+            "split": [Function],
+            "state": [Function],
+            "toString": [Function],
+          }
+        }
+      >
+        Всем привет! Как ваши выходные? Готовы к новой неделе?
+
+Ведь уже в среду, 31 октября, состоится наш Acoustic Night😍
+
+Готовьте свои пледы для уютной и теплой атмосферы в Ballroom Right в 19:00 вечера!
+
+Вас ждет приятный вечер музыки, где вы услышите различные каверы,но самое главное, на концерте, вы станете первыми слушателями авторских песен😱 
+Приходите и поддержите своих друзей, знакомых и просто талантливых студентов!
+
+Не забывайте ставить лайки,
+репосты так же приветствуются😉
+Подписывайтесь так же на нас во всех соц сетях!
+
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots InfoCard/InfoHeader Acoustic Night 1`] = `
+<div
+  style={
+    Object {
+      "padding": 20,
+    }
+  }
+>
+  <div
+    className="info-header"
+  >
+    <div
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+    >
+      <img
+        alt=""
+        src="acoustic.night.jpg"
+      />
+    </div>
+    <div
+      className={
+        Object {
+          "has": [Function],
+          "is": [Function],
+          "mix": [Function],
+          "split": [Function],
+          "state": [Function],
+          "toString": [Function],
+        }
+      }
+    >
+      <div
+        className={
+          Object {
+            "has": [Function],
+            "is": [Function],
+            "mix": [Function],
+            "split": [Function],
+            "state": [Function],
+            "toString": [Function],
+          }
+        }
+      >
+        Acoustic Night
+      </div>
+      <div
+        className={
+          Object {
+            "has": [Function],
+            "is": [Function],
+            "mix": [Function],
+            "split": [Function],
+            "state": [Function],
+            "toString": [Function],
+          }
+        }
+      >
+        Ballroom Right, 19:00 9 Oct 2019
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots PosterCard album 1`] = `
 <div
   style={
     Object {
@@ -16,18 +237,10 @@ exports[`Storyshots Feed/PosterCard album 1`] = `
   }
 >
   <figure
-    className={
-      Object {
-        "has": [Function],
-        "is": [Function],
-        "mix": [Function],
-        "split": [Function],
-        "state": [Function],
-        "toString": [Function],
-      }
-    }
+    className="poster-card"
   >
     <img
+      alt=""
       className={
         Object {
           "has": [Function],
@@ -44,7 +257,7 @@ exports[`Storyshots Feed/PosterCard album 1`] = `
 </div>
 `;
 
-exports[`Storyshots Feed/PosterCard portait 1`] = `
+exports[`Storyshots PosterCard portait 1`] = `
 <div
   style={
     Object {
@@ -53,18 +266,10 @@ exports[`Storyshots Feed/PosterCard portait 1`] = `
   }
 >
   <figure
-    className={
-      Object {
-        "has": [Function],
-        "is": [Function],
-        "mix": [Function],
-        "split": [Function],
-        "state": [Function],
-        "toString": [Function],
-      }
-    }
+    className="poster-card"
   >
     <img
+      alt=""
       className={
         Object {
           "has": [Function],
@@ -81,7 +286,7 @@ exports[`Storyshots Feed/PosterCard portait 1`] = `
 </div>
 `;
 
-exports[`Storyshots Feed/PosterCard square 1`] = `
+exports[`Storyshots PosterCard square 1`] = `
 <div
   style={
     Object {
@@ -90,18 +295,10 @@ exports[`Storyshots Feed/PosterCard square 1`] = `
   }
 >
   <figure
-    className={
-      Object {
-        "has": [Function],
-        "is": [Function],
-        "mix": [Function],
-        "split": [Function],
-        "state": [Function],
-        "toString": [Function],
-      }
-    }
+    className="poster-card"
   >
     <img
+      alt=""
       className={
         Object {
           "has": [Function],
